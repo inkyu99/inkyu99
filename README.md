@@ -1,16 +1,22 @@
-## Hi there 👋
+Hi there 👋
+📊 Welcome to My Data-Driven World!
+Hi! I’m passionate about extracting meaningful insights from data. I specialize in data analysis, machine learning, and data visualization. I'm proficient in Python and SQL for data processing and always eager to explore new technologies in the field of Big Data.
 
-<!--
-**inkyu99/inkyu99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 What I Do
+🔭 Big Data Analysis & Machine Learning Model Development
 
-Here are some ideas to get you started:
+📊 Data Visualization & Insight Extraction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💾 Database Design & Optimization
+
+🌱 Currently Learning
+Deep Learning & AI (TensorFlow, PyTorch)
+
+Big Data Processing (Hadoop, Spark)
+
+Cloud Data Platforms (AWS, GCP, Azure)
+
+📫 How to Reach Me
+📧 Email: your.email@example.com
+📌 Blog: yourblog.com
+💼 LinkedIn: linkedin.com/in/yourprofile
